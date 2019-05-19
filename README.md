@@ -1,4 +1,4 @@
-# Deep Convolutionl Generative Adversarial Networks (DCGANs) for Mammogram Data Augmentation
+# Deep Convolutional Generative Adversarial Networks (DCGANs) for Mammogram Data Augmentation
 ## This project contains my final scripts both written in Python and Jupyter Notebook, as well as image results
 
 ### A) Model 1: Healthy  Infilling Model
